@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Anshul</h1>
-<h3 align="center"> MNIT'24 CSE || Python | AI/ML || Data science</h3>
+<h3 align="center"> MNIT'24 CSE | Python | AI/ML | Data science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Curiosity+to+Creativity;Passionate+Developer;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Curiosity+to+Creativity;Tech+Learner+and+Explorer" alt="Typing SVG" />
 </p>
 
 ---
