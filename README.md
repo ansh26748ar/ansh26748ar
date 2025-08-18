@@ -9,11 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS Graduate from **MNIT Jaipur**  
-- 🔭 Currently building full-stack projects 
-- 🧠 Solved **500+ DSA problems**, AWS Certified, and experienced with scalable systems
-- 🌱 CS Fundamentals **DBMS**, **OOP**, **System Design**, **Operating Ssystem**, **Computer Networks** and **DSA**
-- 💡 Always curious to explore new technologies and real-world problem solving
+- 🎓 B.Tech in Computer Science (2020–2024) from **MNIT Jaipur**  
 
 ---
 
@@ -56,7 +52,7 @@
 ## 🤝 Let’s Connect!
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/anshul-singh-081a40200/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshul-singh-081a40200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ansh26748ar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
